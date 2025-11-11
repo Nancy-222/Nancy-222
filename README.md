@@ -6,7 +6,7 @@
 
 ## Quick summary
 
-- AI Engineering student at CentraleSupélec & Université Paris-Saclay, specializing in Computer Vision and Deep Learning.
+- AI and Software Engineering student at CentraleSupélec & Saint Joseph University.
 
 - Working on industrial AI solutions - defect detection, visual search, and automation systems.
 
